@@ -1,7 +1,7 @@
 // 配置地址 --> https://github.com/a1231369/1/raw/master/0815.jar.jar
 
 {
-"spider":"https://github.com/liu673cn/box/raw/main/sub/jar/box281.jar",
+"spider":"https://github.com/a1231369/1/blob/master/0815.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L3htLnR4dA=="]}]}],
 
 
